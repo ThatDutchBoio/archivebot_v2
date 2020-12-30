@@ -1,0 +1,62 @@
+{
+    "bronze1": {
+        "levelrequired": 0,
+        "id" : "706885781880307723"
+    },
+    "bronze2": {
+        "levelrequired": 5,
+        "id": "706885780530004048"
+    },
+    "bronze3": {
+        "levelrequired": 10,
+        "id": "706885777660968980"
+    },
+    "silver1": {
+        "levelrequired": 20,
+        "id": "707331780461461565"
+    },
+    "silver2": {
+        "levelrequired": 25,
+        "id": "707331779102769243"
+    },
+    "silver3": {
+        "levelrequired": 35,
+        "id": "707331776686850079"
+    },
+    "gold1": {
+        "levelrequired": 40,
+        "id": "707355493881872394" 
+    },
+    "gold2": {
+        "levelrequired": 50,
+        "id": "707355491847897130"
+    },
+    "gold3": {
+        "levelrequired": 60,
+        "id": "707355485883596811"
+    },
+    "master1": {
+        "levelrequired": 75,
+        "id": "707355484822438030"
+    },
+    "master2": {
+        "levelrequired": 100,
+        "id": "707355482729480284"
+    },
+    "master3": {
+        "levelrequired": 125,
+        "id": "707355480279875635"
+    },
+    "champion1": {
+        "levelrequired": 150,
+        "id": "707358301272277096"
+    },
+    "champion2": {
+        "levelrequired": 200,
+        "id": "707355477624750220"
+    },
+    "champion3": {
+        "levelrequired": 250,
+        "id": "707355473606869067"
+    }
+}
