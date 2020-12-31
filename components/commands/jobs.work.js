@@ -12,6 +12,9 @@ function addExp(userId,guildId,amnt){
     eco.xp += amnt;
     return setEco(eco)
 }
+function randomIntFromInterval(min, max) { // min and max included 
+    return Math.floor(Math.random() * (max - min + 1) + min);
+}
 var jobs = require('../../jsonfiles/jobs.json')
 var lastWorked = new Map()
 var discord = require('discord.js')
